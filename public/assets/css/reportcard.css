@@ -1,0 +1,168 @@
+html {
+    font-family:arial;
+    font-size: 18px;
+  }
+  
+  td {
+
+  }
+  .borderBlack{
+    border: 1px solid black;
+
+  }
+  thead{
+    font-weight:bold;
+    text-align:center;
+    background: #625D5D;
+    color:white;
+  }
+  
+  table {
+    border-collapse: collapse;
+    
+  }
+  
+  .footer {
+    text-align:right;
+    font-weight:bold;
+  }
+  
+  tbody >tr:nth-child(odd) {
+    background: #D1D0CE;
+  }
+ 
+  #titleHeaderArab{
+    text-align:center;
+    color:green;
+    border: 1px solid black;
+
+  } 
+
+  .arab {
+    font-family: DejaVu Sans, sans-serif;
+    direction: rtl;
+}
+
+.number {
+    font-family: Arial, "Helvetica", Arial, "Liberation Sans", sans-serif;
+    direction: ltr;
+}
+#tab_head{
+  width:100%;
+  border: 1px solid black;
+
+  
+}
+.tab_dwnhead{
+  border:1;
+  color: black;
+  margin-top:2%;
+  margin-bottom:2%;
+  width: 100%;
+}
+.info_dwnhead{
+  background-color: lightgray;
+  height:5%;
+  text-align:center;
+  width:100%;
+  align-content: center;
+}
+#invisible{
+  border:0;
+  width:2%;
+  background-color:white;
+}
+#tab_body{
+  width:102%;
+
+}
+#interroinfo{
+  border-bottom:0;
+  border-top:0;
+}
+#interroinfo2{
+  border-top:0;
+  border-bottom-style:solid;
+  border-bottom-width: 2px;
+  border-bottom-color: black;
+}
+.tab_bot{
+  width: 100%;
+  margin-top:2%;
+  border-style:solid;
+  border-width: 2px;
+  border-color: black;
+  
+}
+#footer{
+  height:10%;
+}
+#underfoot{
+  border-top-style:none;
+  border-left-style:none;
+  border-right-style:none;
+  border-bottom-style:solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #093817;
+  width: 100%;
+  margin-top:1%;
+  height:5px;
+}
+#foottext{
+  color:green;
+}
+#invisible2{
+  border:0;
+  width:0.000001%;
+  background-color:white;
+}
+.righttdblack{
+  border-right-style:solid;
+  border-right-width: 2px;
+  border-right-color: black;
+}
+#invisible3{
+  width:0.000001%;
+  border-bottom-width: 2px;
+  border-bottom-color: black;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+#tap_head_body{
+  border:0;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-color: black;
+  border-bottom-style:solid;
+  border-bottom-width: 2px;
+}
+tr.foot_of_body>td{
+  padding-top: 1em;
+}
+.center{
+  text-align: center;
+}
+.ruban{
+  color:#1361B8;
+  font-size: 1em;
+}
+.right{
+  text-align: right;
+}
+.left{
+  text-align: left;
+
+}
+.logoArab{
+padding-left:120%;
+}
+#ecartNumber{
+  padding-right:5%;
+}
+#tab_remarque_prof{
+  height:5%;
+  width: 100%;
+  margin-top:15px;
+}

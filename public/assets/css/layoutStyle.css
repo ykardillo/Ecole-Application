@@ -1,0 +1,58 @@
+body {
+    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+}
+
+.emp-profile {
+    padding: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 0.5rem;
+    background: #fff;
+}
+
+html,
+body {
+    color: black;
+    font-family: 'black', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+.mb-4 {
+    border-bottom: solid rgba(255, 255, 255, 0.3);
+}
+
+h5 {
+    color: #007cff;
+}
+
+#navbarSupportedContent ul li ul {
+    display: none;
+}
+
+#navbarSupportedContent ul li:hover ul {
+    display: block;
+}
+
+#navbarSupportedContent li ul {
+    position: absolute;
+}
+#navbarDropdownMenuLink:hover{
+    cursor:pointer;
+}
+.myAlert-bottom{
+    position: fixed;
+    bottom: 5px;
+    left:2%;
+    width: 96%;
+}
+#deconnexion{
+    color:red
+}
+#deconnexion:active{
+    color:white
+}
+/*body {
+    overflow: hidden; 
+}*/
