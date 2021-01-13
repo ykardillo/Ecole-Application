@@ -19,7 +19,7 @@ Dans cette application, vous trouverez un calendrier et un horaire et aussi, vou
 
 
 ## Calendar
-![homeScreen](/calendarScreen.PNG)
+![calendarScreen](/calendarScreen.PNG)
 
 ## TimeTable
-![homeScreen](/timetableScreen.PNG)
+![timetableScreen](/timeTableScreen.PNG)
