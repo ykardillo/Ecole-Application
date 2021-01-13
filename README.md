@@ -15,11 +15,11 @@ Dans cette application, vous trouverez un calendrier et un horaire et aussi, vou
 
 
 ## Home
-![homeScreen](/homeScreen.png)
+![homeScreen](/homeScreen.PNG)
 
 
 ## Calendar
-![homeScreen](/calendarScreen.png)
+![homeScreen](/calendarScreen.PNG)
 
 ## TimeTable
-![homeScreen](/timetableScreen.png)
+![homeScreen](/timetableScreen.PNG)
